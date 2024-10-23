@@ -11,7 +11,7 @@ class Printer implements Printable {
 	}
 }
 
-public class LamdaMain {
+public class LambdaMain {
 	public static void main(String[] args) {
 		
 		// Printable prn = new Printer();

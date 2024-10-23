@@ -4,7 +4,7 @@ interface Calculate2<T> {
 }
 
 // 람다 : 인터페이스 구현을 화살표 함수
-public class LamdaMain3 {
+public class LambdaMain3 {
 	public static void main(String[] args) {
 
 		Calculate2<Integer> cal = (a, b) -> a + b;

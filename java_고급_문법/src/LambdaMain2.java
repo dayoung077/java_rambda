@@ -26,7 +26,7 @@ interface Generator {
 }
 
 // 람다 : 인터페이스 구현을 화살표 함수
-public class LamdaMain2 {
+public class LambdaMain2 {
 	public static void main(String[] args) {
 
 		Generator lotto = () -> {
